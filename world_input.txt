@@ -1,0 +1,10 @@
+15
+1000
+Hopper 15 15 North
+Parry 13 13 East
+Rook 11 11 South
+Roomber 9 9 West
+Randy 7 7 North
+Flytrap 5 5 East
+SpinnerGuard 3 3 South
+Guard 1 1 West
