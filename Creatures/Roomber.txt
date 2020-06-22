@@ -1,0 +1,49 @@
+Roomber:purple
+ifnotwall 4
+twist
+go 1
+hop
+ifnotwall 4
+twist
+ifnotwall 9
+go 23
+hop
+twist
+hop
+ifnotwall 11
+twist
+reverse
+ifnotwall 17
+go 41
+hop
+twist
+reverse
+hop
+ifnotwall 20
+go 6
+reverse
+ifnotwall 27
+reverse
+go 9
+hop
+twist
+reverse
+hop
+ifnotwall 30
+twist
+ifnotwall 35
+go 1
+hop
+twist
+hop
+ifnotwall 37
+twist
+go 23
+reverse
+hop
+twist
+hop
+ifnotwall 44
+go 39
+
+This creature covers every single cell of the grid
