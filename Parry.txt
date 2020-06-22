@@ -1,0 +1,5 @@
+Parry:grey
+reverse
+go 1
+
+This creature doesn't move anywhere, it just sits in one place and reverses directions
